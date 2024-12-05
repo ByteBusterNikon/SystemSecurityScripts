@@ -28,9 +28,6 @@ The batch files in this repository (`update_windows.bat`, `SecureShutdown_closeP
 
 I am not responsible for any misuse, damage, or disruption caused by these scripts. Use them at your own risk.
 
-**License:**
-
-[Include your chosen license here, if applicable, such as MIT or GPL, with a note about personal use only.]
 
 **For Educational Purposes:**
 

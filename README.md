@@ -1,6 +1,6 @@
 # SystemSecurityScripts
 
-Work in progress...
+Still new to batch scripting and PowerShell, I wanted to leverage AI to help me create simple scripts to automate my updates and home network security. These batch scripts are (update_windows.bat, SecureShutdown_closePorts.bat, and EnableNetwork.bat), which I developed with the assistance of CLAUDE AI. Learning to use AI to showcase how to enhance system management through scripting is another skill set that helps me keep up with technology trends within the cybersecurity industry. 
 
 **Important Security Note:**
 

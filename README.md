@@ -18,6 +18,11 @@ The batch files in this repository (`update_windows.bat`, `SecureShutdown_closeP
 - **System Shutdown**: 
   - `SecureShutdown_closePorts.bat` initiates a system shutdown, which should only be done when you have the necessary permissions and authority.
 
+
+
+
+
+---------------------------------
 **Usage Guidelines:**
 
 - These scripts are not intended for use in professional, corporate, or shared environments without explicit approval from system administrators or owners.

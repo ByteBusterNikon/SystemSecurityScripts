@@ -23,7 +23,7 @@ The batch files in this repository (`update_windows.bat`, `SecureShutdown_closeP
 
 
 ---------------------------------
-**Usage Guidelines:**
+# **Usage Guidelines:**
 
 - These scripts are not intended for use in professional, corporate, or shared environments without explicit approval from system administrators or owners.
 - They are provided for educational purposes or personal troubleshooting on personal devices.
